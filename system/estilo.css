@@ -1,0 +1,43 @@
+body{
+    background: #000000 url(/Imagens/SystemMouse.jpg )  ; 
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: 160px;
+    
+}
+#principal{
+    padding: 10px;
+    text-align: center;
+    text-size-adjust:initial;
+}
+#conteudo{
+    padding: 15px;
+    background: #b8b2b706;
+    text-justify:auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(39, 210, 23);
+    
+}
+a{
+    color: rgb(9, 229, 49);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+}
+div{
+    color: rgb(61, 227, 15);
+    
+    
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+h4{
+    text-align: center;
+    color: green;
+}
